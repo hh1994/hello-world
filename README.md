@@ -1,6 +1,6 @@
 # hello-world
 Just anothor repository
 
-Hi Hunmans!
+Hi Humans!
 
 hello, hello, hello...
